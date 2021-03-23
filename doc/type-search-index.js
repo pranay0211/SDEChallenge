@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"io.pranay.paytm.collections","l":"MovingAverage"},{"p":"io.pranay.paytm.collections.impl","l":"MovingAverageArrayList"},{"p":"io.pranay.paytm","l":"MovingAverageArrayListTest"}]
